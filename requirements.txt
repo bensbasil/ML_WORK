@@ -1,0 +1,17 @@
+# Data Manipulation & Analysis
+numpy
+pandas
+pyarrow
+
+# Data Visualization
+matplotlib
+
+# Classical Machine Learning & Utilities
+scikit-learn
+
+# Experiment Tracking & Interactive Dev
+ipykernel
+
+# Testing Framework
+pytest
+joblib
